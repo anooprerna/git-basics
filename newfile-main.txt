@@ -1,7 +1,0 @@
-Hey buddy!
-I'm adding a line here. 
-So we know this is being changed now!
-Lined added directly from github!
-
-
-Okay, adding another line. Number 7!
